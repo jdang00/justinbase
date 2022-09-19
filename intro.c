@@ -16,6 +16,8 @@ int main(int argc, char *argv[]){
 
    printArray(numbers,SIZE);
 
+
+   //this is a test
   printf("%d\n",val1); 
   printf("%d\n",val2); 
   printf("%p:%s\n",str1,str1);
