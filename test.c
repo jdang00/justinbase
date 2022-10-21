@@ -43,7 +43,7 @@ int func1 (char a[],int length,char first,int ret) {
                 ret = 1;
         } else {
             ret = 0;
-        };
+        }
 
 
          for(int i = 0; i < length; i++) {
