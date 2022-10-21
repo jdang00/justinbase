@@ -24,6 +24,7 @@ int main(int argc, char *argv[]){
   printf("%p:%s\n",str2,str2);
   printf("%p:%s\n",str3,str3);
    
+  	
 
    return 0;
 }
